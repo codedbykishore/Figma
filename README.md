@@ -1,4 +1,4 @@
-![Screenshot 2024-04-27 230927](https://github.com/codedbykishore/Figma/assets/147139122/c5e5cc3d-e254-4ad9-bfc3-bff03dc6a886)# Ex09 Event Registration Web Application
+# Ex09 Event Registration Web Application
 ## Date:28.04.2024
 
 ## AIM:
