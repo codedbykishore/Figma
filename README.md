@@ -1,4 +1,4 @@
-# Ex09 Event Registration Web Application
+![Screenshot 2024-04-27 230927](https://github.com/codedbykishore/Figma/assets/147139122/c5e5cc3d-e254-4ad9-bfc3-bff03dc6a886)# Ex09 Event Registration Web Application
 ## Date:28.04.2024
 
 ## AIM:
@@ -74,11 +74,14 @@ code for ss 4:
 ```
 ## OUTPUT:
 ## SS 1:
-![alt text](<Screenshot 2024-04-27 230927.png>)
+![Screenshot 2024-04-27 230927](https://github.com/codedbykishore/Figma/assets/147139122/507e5e30-f46b-46d7-aae0-f9c440db2e8a)
+
 ## SS 2:
-![alt text](<Screenshot 2024-04-27 230954.png>)
+![Screenshot 2024-04-27 230954](https://github.com/codedbykishore/Figma/assets/147139122/346a754f-093e-4217-bd67-c63938e8ba74)
+
 ## SS 3:
-![alt text](<Screenshot 2024-04-27 231004.png>)
+![Screenshot 2024-04-27 231004](https://github.com/codedbykishore/Figma/assets/147139122/b271be7e-05cb-4fc1-bed9-416c6895960d)
+
 
 
 ## RESULT:
